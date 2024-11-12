@@ -108,9 +108,3 @@ During the development of **Minishell**, several technical challenges were overc
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-Thank you for exploring **Minishell**! This project was a rewarding experience, offering insight into the inner workings of shell environments and system-level programming. Contributions and suggestions are welcome—feel free to fork this repository and create pull requests to improve the project.
-
----
